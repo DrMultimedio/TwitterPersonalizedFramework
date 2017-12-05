@@ -1,0 +1,11 @@
+#photo{
+	display: none;
+}
+.rings{
+	padding: 1vh;
+}
+.rings > div > img{
+	height: 40px;
+	width: 40px;
+
+}
